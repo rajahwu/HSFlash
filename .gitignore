@@ -25,4 +25,5 @@ dist-ssr
 
 .env
 .env.*
+app.env*
 firebase-adminsdk*.json
